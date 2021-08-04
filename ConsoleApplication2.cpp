@@ -1,13 +1,13 @@
 #include <iostream>
-#define _USE_MATH_DEFINES  // команда на случай использования числа ПИ
+#define _USE_MATH_DEFINES  // ГЄГ®Г¬Г Г­Г¤Г  Г­Г  Г±Г«ГіГ·Г Г© ГЁГ±ГЇГ®Г«ГјГ§Г®ГўГ Г­ГЁГї Г·ГЁГ±Г«Г  ГЏГ€
 using namespace std;   
 
 
 int main()
 {
-	setlocale(LC_ALL, "Russian"); // перевод русский кириллицы
+	setlocale(LC_ALL, "Russian"); // РїРµСЂРµРІРѕРґ СЂСѓСЃСЃРєРёР№ РєРёСЂРёР»Р»РёС†С‹
 	int x;
-	cout << "ввидите киллометры:  ";
+	cout << "РІРІРёРґРёС‚Рµ РєРёР»Р»РѕРјРµС‚СЂС‹:  ";
 	cin >> x;
 
 
@@ -16,7 +16,7 @@ int main()
 	ver1 = x * ver;
 
 	 
-	std::cout << "Верст:   " << ver1 << endl;
+	std::cout << "Р’РµСЂСЃС‚:   " << ver1 << endl;
 }
 
 
