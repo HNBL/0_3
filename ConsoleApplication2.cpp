@@ -1,5 +1,5 @@
 #include <iostream>
-#define _USE_MATH_DEFINES  // êîìàíäà íà ñëó÷àé èñïîëüçîâàíèÿ ÷èñëà ÏÈ
+#define _USE_MATH_DEFINES  // команда на случай использования числа ПИ
 using namespace std;   
 
 
